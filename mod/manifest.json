@@ -1,0 +1,16 @@
+{
+  "package_name": "piano-rpc",
+  "version": "1.0.0",
+  "game_edition": 3,
+  "mod_name": "Piano RPC",
+  "description": "Sync piano notes through PianoButtonRpc",
+  "main": "piano-rpc.dll",
+  "dependencies": {},
+  "keywords": [
+    "piano",
+    "rpc"
+  ],
+  "author": "",
+  "license": "MIT",
+  "website": ""
+}
